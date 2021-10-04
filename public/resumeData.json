@@ -1,0 +1,132 @@
+{
+  "main": {
+    "name": "Ramlakhan Singh",
+    "occupation": "Student at Meerut Institute of Technology",
+    "description": "",
+    "image": "ramdp.jpeg",
+    "bio": "Extremely motivated to constantly develop my skills and grow professionally. My curiosity more than my knowledge is what pushes me to excel in my work.",
+    "contactmessage": "Get in touch with me.",
+    "email": "Pt2867000@gmail.com",
+    "phone": "+91 8957846889",
+    "address": {
+      "street": "Vidhyawati Boy's Hostel.",
+      "city": "Meerut",
+      "state": "Uttar pradesh, India",
+      "zip": "250103"
+    },
+
+    "resumedownload": "https://drive.google.com/file/d/18wTnCbI-2kiWvdWNljSVft5KJghbonlo/view?usp=drivesdk",
+    "social": [
+      
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ram-lakhan-singh-61a924200",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/8424.ram/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ramlakhan1",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Dr APJ Abdul Kalam Technical University",
+        "degree": "Bachelor of Technology, Computer Science and Engineering.",
+        "graduated": "May 2023"
+        
+      },
+      {
+        "school": "Jai Narayan Vidya Mandir Inter College",
+        "degree": "Intermediate (12th).",
+        "graduated": "APRIL 2017 - MARCH 2018"
+        
+      }
+
+    ],
+    "skills": [
+      {
+        "name": "C++",
+        "level": "100%"
+      },
+      {
+        "name": "Java",
+        "level": "85%"
+      },
+      {
+        "name": "DataStructures & Algorithms",
+        "level": "85%"
+      },
+     
+      {
+        "name": "ReactJS",
+        "level": "85%"
+      },
+      
+      {
+        "name": "NodeJs",
+        "level": "75%"
+      },
+
+      {
+        "name": "Javascript",
+        "level": "75%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "65%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon clone (React JS)",
+        "category": "",
+        "image": "Amazon.jpeg",
+        "url": "https://clone-c4cfc.web.app/"
+      },
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "",
+        "image": "Netflix.jpeg",
+        "url": "https://netflix-6a95b.web.app/"
+      },
+      {
+        "title": "Airbnb Clone (React JS)",
+        "category": "",
+        "image": "Airbnb.jpeg",
+        "url": "https://airbnb-anmoltyagi908.vercel.app/"
+      },
+      {
+        "title": "Weather App (Node JS)",
+        "category": "",
+        "image": "Weather (1).jpeg",
+        "url": "https://sleepy-retreat-55366.herokuapp.com/"
+      },
+      {
+        "title": "Chatting App (Node JS)",
+        "category": "",
+        "image": "Chat.jpeg",
+        "url": "https://tyagi-anmol-app.herokuapp.com/"
+      }
+     
+    ]
+  }
+}
